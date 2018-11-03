@@ -7,18 +7,20 @@ created by: FusionCode
 // Component Requirements
 //----------------------------------------------------------------------------------------------------------
 
-the geography view has a status bar located at the very-top across the full width of the view
-geography view has Navigation Bar located at the very-top across the full width of the view
-geography view has Label located at the top center of the view, text needs identified
-geography view has Label located at the mid-top center of the view, text needs identified
-geography view has Label located at the main area center of the view, text needs identified
-geography view has Label located at the main area center of the view, text needs identified
-geography view has Label located at the bottom left of the view, text needs identified
-geography view has a Tabbar located at the bottom across the full width of the view, text of nested elements need better identified
-geography view has Label located at the bottom center of the view, text needs identified
-geography view has Label located at the bottom center of the view, text needs identified
-geography view has Label located at the bottom left of the view, text needs identified
-view has actions which trigger on events, view should should error messages and display activity indicator when processing
+the round 1 / 25 view has a status bar located at the very-top across the full width of the view
+round 1 / 25 view has Navigation Bar located at the very-top across the full width of the view
+round 1 / 25 view has an Image located at the very-top right of the view. this is a placeholder and should be updated with higher resolution Image
+round 1 / 25 view has a Label located at the very-top left of the view with text i @jameyﬁ
+round 1 / 25 view has a Label located at the top center of the view with text i @jameyﬁ
+round 1 / 25 view has an Image located at the mid-top in the center of the view. this is a placeholder and should be updated with higher resolution Image
+round 1 / 25 view has a Label located at the main area center of the view with text v ‘
+round 1 / 25 view has an Image located at the bottom center of the view. this is a placeholder and should be updated with higher resolution Image
+round 1 / 25 view has an Image located at the bottom left of the view. this is a placeholder and should be updated with higher resolution Image
+round 1 / 25 view has an Image located at the bottom center of the view. this is a placeholder and should be updated with higher resolution Image
+the geography view has a back icon located at the very-top left of the view which on click will trigger the back() action
+the geography view has a add icon located at the top center of the view which on click will trigger the add() action
+the round 1 / 25 view has a back icon located at the very-top left of the view which on click will trigger the back() action
+the round 1 / 25 view has a add icon located at the top center of the view which on click will trigger the add() action
 
 */
         
