@@ -19,6 +19,8 @@ round 1 / 25 view has an Image located at the bottom left of the view. this is a
 round 1 / 25 view has an Image located at the bottom center of the view. this is a placeholder and should be updated with higher resolution Image
 the geography view has a back icon located at the very-top left of the view which on click will trigger the back() action
 the geography view has a add icon located at the top center of the view which on click will trigger the add() action
+the round 1 / 25 view has a back icon located at the very-top left of the view which on click will trigger the back() action
+the round 1 / 25 view has a add icon located at the top center of the view which on click will trigger the add() action
 
 */
         
